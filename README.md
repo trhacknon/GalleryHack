@@ -1,12 +1,12 @@
 # GalleryHack
-## Termux Users Gallery Hack Tool (Owner - Razor Kenway | SL Android | Sri Lanka 🇱🇰 
+## Termux Users Gallery Hack Tool (Owner - trhacknon | SL Android | anonymous 
 ### Command list 👇👇
 
 >pkg update && pkg upgrade
 
 >pkg install git
 
->git clone https://github.com/RazorKenway/GalleryHack.git
+>git clone https://github.com/trhacknon/GalleryHack.git
 
 >cd GalleryHack
 
@@ -23,7 +23,7 @@ SL ANDROID Channel Doesn't Promote & Encourage Any illegal Activities, SL ANDROI
 
 🔗 Follow Us On Facebook Page https://www.facebook.com/SLAndroidD/
 
-🔗 Join Facebook Group https://www.facebook.com/groups/277920623081269/
+🔗 Join Facebook Group https://www.facebook.com/groups/
 
 🔗 Follow Us On Instagram https://www.instagram.com/sl_android_official/
 
